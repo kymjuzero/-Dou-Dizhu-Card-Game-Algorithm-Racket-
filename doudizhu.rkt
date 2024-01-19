@@ -1,13 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-abbr-reader.ss" "lang")((modname |doudizhu (1)|) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;;
-;; ***************************************************
-;;    Josephina Kim (21092172)
-;;    CS 135 Fall 2023
-;;    Assignment 05, Question 3
-;; ***************************************************
-;;
+
 
 ;; Helper Functions
 
